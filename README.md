@@ -1,4 +1,4 @@
-# Phone-Directory-in-C-
+# Phone-Directory-in-C++
 code is writen in c++ using visul studio 2014.
 here is main file code.
 #include <iostream>
